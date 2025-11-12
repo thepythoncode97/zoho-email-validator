@@ -1,6 +1,6 @@
 # Zoho Valid Email Checker
 
-![image](github.com/thepythoncode97/Zoho-Valid-Email-Checker/blob/main/Zoho_Valid_Email_Checker.png?raw=true)
+![image](https://raw.githubusercontent.com/thepythoncode97/Zoho-Valid-Email-Checker/refs/heads/main/Zoho_Valid_Email_Checker.png)
 
 ## Features:
 1. **Accurate Result**: Ensures precise email validation for reliable results.
